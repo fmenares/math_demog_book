@@ -386,6 +386,7 @@ hfd.adj.dt[, lines(Year, filter(adjTFR, rep(1/7, 7)), col = "red", lwd = 4)]
 - fat_mix_movie.pdf
 
 ```{r}
+library(mixtools)
   ## simulate 2 normals 
   N <- 1000
   x1 <- rnorm(N, mean = 22, sd = 3) ##
