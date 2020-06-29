@@ -1,0 +1,5 @@
+book_filename: "Random_Demography_Problems"
+language:
+  ui:
+    chapter_name: "Chapter "
+delete_merged_file: true
